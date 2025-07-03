@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ankur Verma 👋</h1>
+<h1 align="center">Hi, I'm Ankur👋</h1>
 <p align="center">
   <em>Data Engineer | Transitioning from Change Management to Smart Data Engineering</em><br>
   <strong>🚀 From strategy to Spark: a curious mind engineering impact.</strong>
@@ -39,7 +39,7 @@
 
 #### 1. Smart Incident Insight Tool (SIIT) _(in progress)_
 > Modular pipeline using PySpark, NLP, and OpenCV for AI-driven incident analysis.  
-> [See development progress & code](https://github.com/Ankur-ipynb) 
+> [See development progress & code](https://github.com/Ankur-ipynb/SIIT.git) 
 
 #### 2. Inventory Anomaly Detection System ([Repo](https://github.com/Ankur-ipynb/Inventory_AnomalyDetectionV1.git))
 - Interactive dashboard visualizing live inventory metrics, anomalies, and ML predictions.
